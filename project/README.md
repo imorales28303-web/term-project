@@ -1,3 +1,7 @@
+Izaiah Morales
+User:imorales28303@gmail.com
+tampa/FL
+
 # term-project
 Python Inventory Management System Final Project
 import json
